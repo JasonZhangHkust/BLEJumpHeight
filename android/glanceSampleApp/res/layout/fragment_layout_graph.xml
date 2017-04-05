@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:background="#F0F0F0"
+    android:padding="@dimen/activity_horizontal_margin" >
+    <FrameLayout
+        android:id="@+id/graph_accel_rawdata"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2.03"
+        android:background="#FFFFFF"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/graph_analysis"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="match_parent"/>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/graph_capture_4s"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="@string/chip_dev_graph_capture_4s"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RESET"
+                android:id="@+id/btnThreshold" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

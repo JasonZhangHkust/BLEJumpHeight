@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\achartengine-1.2.0\achartengine-1.2.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="af3a83a1bed99c5ff0d03d0a1135e3b5c66a5096">
+        <dex dex="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\achartengine-1.2.0_abaf05bcaf95d93f19668d2cabc71d06e6f078de.jar" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\android\BLEFramework-release\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="445421ef35834659136cd939a0b4b21067538584">
+        <dex dex="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\android-BLEFramework-release-unspecified_3851ca06f52bcd49201e5850ff790b76ddff9e8b.jar" />
+    </item>
+    <item
+        jar="I:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_b0ed25ddabb971932d60e1b4b6d514825afff57a.jar" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_a93b8cb990a6d306de5b1350bbb9210177e86f18.jar" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_e3d0d9993d0b4852ddb5ee043846820049bb0e3e.jar" />
+    </item>
+
+</items>

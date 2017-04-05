@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="BLEFramework-release-unspecified">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/glanceSampleApp/build/intermediates/exploded-aar/android/BLEFramework-release/unspecified/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/glanceSampleApp/build/intermediates/exploded-aar/android/BLEFramework-release/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/glanceSampleApp/build/intermediates/exploded-aar/android/BLEFramework-release/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

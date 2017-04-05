@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="306465147525544"
+    token="-724921956427908132"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="1551" />
+    <task
+        name="instant-run-dex"
+        duration="655" />
+    <task
+        name="instant-run-transform"
+        duration="83" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="306320434770881" >
+        <artifact
+            location="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\outputs\apk\glanceSampleApp-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="306465147525544"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

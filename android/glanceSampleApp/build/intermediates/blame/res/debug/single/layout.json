@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\build\\intermediates\\res\\merged\\debug\\layout\\setgoal_layout.xml",
+        "source": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\res\\layout\\setgoal_layout.xml"
+    },
+    {
+        "merged": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\build\\intermediates\\res\\merged\\debug\\layout\\setdatetime_layout.xml",
+        "source": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\res\\layout\\setdatetime_layout.xml"
+    },
+    {
+        "merged": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\build\\intermediates\\res\\merged\\debug\\layout\\setsleep_layout.xml",
+        "source": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\res\\layout\\setsleep_layout.xml"
+    },
+    {
+        "merged": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\build\\intermediates\\res\\merged\\debug\\layout\\setalarm_layout.xml",
+        "source": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\res\\layout\\setalarm_layout.xml"
+    },
+    {
+        "merged": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\build\\intermediates\\res\\merged\\debug\\layout\\setprofile_layout.xml",
+        "source": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\res\\layout\\setprofile_layout.xml"
+    },
+    {
+        "merged": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout_graph.xml",
+        "source": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\res\\layout\\fragment_layout_graph.xml"
+    },
+    {
+        "merged": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_glance_main.xml",
+        "source": "I:\\hkust\\embedded\\Lab7\\BLEFrameworkAS_rev6638\\android\\glanceSampleApp\\res\\layout\\activity_glance_main.xml"
+    }
+]

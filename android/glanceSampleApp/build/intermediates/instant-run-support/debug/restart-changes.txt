@@ -1,0 +1,2 @@
+CHANGED,I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\cwb\glancesampleapp\GraphFragment$MyHandler.class
+CHANGED,I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\cwb\glancesampleapp\GraphFragment.class

@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:3:5-38
+	android:versionName
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:5:5-31
+		INJECTED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml
+		INJECTED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml
+	android:versionCode
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:4:5-29
+		INJECTED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml
+		INJECTED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [android:BLEFramework-release:unspecified] I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\android\BLEFramework-release\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.BLUETOOTH
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:11:5-90
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:13:5-89
+	android:required
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:13:64-87
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:13:19-63
+application
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:15:5-30:19
+MERGED from [com.android.support:support-v4:22.1.1] I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [android:BLEFramework-release:unspecified] I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\android\BLEFramework-release\unspecified\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:19:9-40
+activity#com.cwb.glancesampleapp.glanceMainActivity
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:21:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:26:27-74
+service#com.cwb.bleframework.GlanceProtocolService
+ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:29:9-101
+	android:enabled
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:29:18-40
+	android:name
+		ADDED from I:\hkust\embedded\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\AndroidManifest.xml:29:41-98
