@@ -8,6 +8,7 @@
 // Author: Kevin Kwok (kevinkwok@cwb-tech.com)
 //         William Chan (williamchan@cwb-tech.com)
 // Project: Glance
+// Revised by ZHANG Yi 
 //---------------------------------------------------------------------
 
 package com.cwb.glancesampleapp;
